@@ -9,6 +9,7 @@
 
 * Inject bundle into index.html
 * CSS/SASS
+* CSS Reset/Normalize
 * Extract CSS
 * ES2015
 * dev-server
