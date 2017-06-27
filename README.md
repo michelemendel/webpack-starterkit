@@ -16,4 +16,5 @@
 * source-map
 * compress/uglify
 * Hot Module Replacement
-* 
+* tree-shaking / dead code elimination
+
